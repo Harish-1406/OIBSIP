@@ -1,7 +1,7 @@
 # 📊 Sales Prediction using Machine Learning
 ## 📘 Overview
 
-This project aims to predict future sales based on historical data using machine learning techniques. The notebook demonstrates data preprocessing, model building, training, and evaluation to estimate sales accurately.
+This task aims to predict future sales based on historical data using machine learning techniques. The notebook demonstrates data preprocessing, model building, training, and evaluation to estimate sales accurately.
 
 ## 🚀 Features
 
