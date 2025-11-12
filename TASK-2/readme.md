@@ -3,7 +3,7 @@
 ---
 
 ## 🧾 Overview
-This project focuses on analyzing unemployment trends across various regions of India.  
+This task focuses on analyzing unemployment trends across various regions of India.  
 The analysis includes data cleaning, preprocessing, feature engineering, and visual exploration to understand patterns, regional differences, and the impact of COVID-19 on unemployment rates.
 
 ---
